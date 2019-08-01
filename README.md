@@ -17,4 +17,7 @@ _create a daily mail report of the server perf_
 
 ### Openvpn-install.sh
 
-_This script is used for install a openvpn server and manage user_
+_This script is used for install a openvpn server and manage user
+Source: [Nyr][fbb47f68]
+
+  [fbb47f68]: https://github.com/Nyr/openvpn-install "Nyr"
