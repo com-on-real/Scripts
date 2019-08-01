@@ -9,7 +9,7 @@ _Virtualhost is user for creating a web hosting with SSL and ftp (soon)_
 
 ### index.php
 
-_This script is used for default page on new Vhost8
+_This script is used for default page on new Vhost_
 
 ### mailreport.sh
 
